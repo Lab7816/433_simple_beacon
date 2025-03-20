@@ -1,5 +1,6 @@
 # 433_simple_beacon
 simple beacon implementation based on RX470C-V01 (transmitter) and digispark_attiny85 (control device) components
+[![](https://github.com/Lab7816/433_simple_beacon/blob/main/Lab7816_433_simple_beacon_demo.gif)](https://github.com/Lab7816/433_simple_beacon/blob/main/Lab7816_433_simple_beacon_demo.gif)
 
 Это попытка создать радио-закладку, которая создает короткий сигнал в диапазоне 433Мгц с интервалом в одну секунду, что может подойти для инструментов (при соотвествующей доработке) тестирования пеленгаторов, а так же устройств проверки на угрозы утечки информации по каналам побочных электромагнитных излучений и наводок.
 
