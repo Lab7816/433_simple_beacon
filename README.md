@@ -33,3 +33,9 @@ This is an attempt to create a radio bookmark, which creates a short signal in t
 ### 2. Connect the assembly to the PC from which you will upload the sketch.
  
 ### 3. After successful compilation and flashing of Digispark, turn the assembly on and off again.
+
+
+#### Writed uploaded with standart lib:
+![text](https://github.com/Lab7816/433_simple_beacon/blob/main/markdown_res/01.png)
+
+![text](https://github.com/Lab7816/433_simple_beacon/blob/main/markdown_res/02.png)
